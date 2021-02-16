@@ -1,0 +1,278 @@
+# Info to memorize via spaced_repetition.py (and leitner_box.db).
+# 1st line after these comments is the user instructions. 
+# The 2nd, 4th, 6th, etc. lines are the "front of card", or prompt to recall the "back of card", i.e., the 3rd, 5th, 7th, etc., indented lines following. 
+# Whole line comments such as this can appear throughout.
+# This format, with no blank lines, is required. 
+# Preserve this file to re-import into table `cards` when necessary (student progress on the subject will be lost).
+# Created 2020-10-08 GHerson
+Instructions:  Each card's front is a word and each card back is the meaning.
+aleatory
+    dependent on chance
+sudorific
+    sweat-inducing
+consentient
+    unanimous
+auric
+    relating to gold
+nimiety
+    excess
+involute
+    intricate or spirally curled
+exscind
+    cut out completely
+exigent
+    demanding immediate attention
+obtrude
+    to impose
+peal
+    to ring loudly
+imbrue
+    literary and archaic imbue
+overbearing
+    1) domineering.  2) of critical importance
+altogether
+    completely
+artifice
+    clever trick to fool others
+winsome
+    attractive in a simple, innocent way
+arrant
+    of the worst kind
+errant
+    wandering
+equanimity
+    aplomb
+acclamation
+    audible acclaim
+potentate
+    ruler unconstrained by law
+regent
+    temporary ruler
+logomachy
+    argument about words
+baling
+    bundling
+salutary
+    healthful
+acarpous
+    not producing fruit
+warrantee
+    person to whom a guarantee is given
+sheer
+    diaphonous, perpendicular, or completely
+bemuse
+    to confuse
+doe-eyed
+    innocent looking
+gauche
+    unsophisticated and socially awkward
+wont
+    accustomed to
+dissipated
+    overly hedonistic
+spurious
+    plausible but false
+plenitude
+    plenty
+dilatory
+    procrastinating
+glabrous
+    bald or smooth
+afflatus
+    inspiration
+compunction
+    regret
+provident
+    frugal
+cession
+    surrender
+debility
+    ailment
+fulsome
+    excessive
+languor
+    weariness
+gasconade
+    extravagent boast
+arrogate
+    assume ownership
+peripety
+    sudden or unexpected reversal of fortune 
+misology
+    hatred of reasoning
+abulia
+    inability to act (psychiatric)
+requite
+    reciprocate
+trammel
+    deprive of freedom
+perpend
+    to consider
+burke
+    choke
+saturnine
+    sluggish in temperament; gloomy; taciturn
+tortuous
+    long and full of turns
+vegetate
+    grow and proliferate
+comminute
+    pulverize, triturate
+purlieu
+    environs
+sedulous
+    diligent
+macerate
+    to soften in liquid
+approbation
+    approval
+indemnify
+    to reimburse for loss
+daedal
+    skillful, adroit
+raffish
+    slightly disreputable or jaunty; rakish; louche
+esprit
+    sprightliness, lively
+munificence
+    generosity
+precipitate (adj)
+    happening quickly. "a precipitate decline in cultural literacy"
+ataraxis
+    absence of anxiety
+pule
+    cry softly
+gormandize
+    eat
+gambol
+    frolic
+creditable
+    worthy of praise
+hyaline
+    glassy
+deterge
+    to clean
+sapid
+    tasty
+inure
+    accustom to something bad.  Law: take effect
+bilious
+    nauseating
+cadge
+    to beg
+sluice
+    water flow gate or the act of rinsing
+perdure
+    endure
+abeyance
+    suspension
+panegyrize
+    honor
+exsiccate
+    dry up
+jocund
+    in high spirits, convivial
+rive
+    break in two pieces
+inculpate
+    accuse
+lagniappe
+    gift or bonus
+wizen
+    wither
+vapor
+    to b.s.
+vaunt
+    to boast or praise
+rostrum
+    public stage
+nostrum
+    unproven remedy
+traduce
+    to slander
+panoply
+    impressive array
+Pharisee
+    sanctimonious hypocrite
+velleity
+    lowest degree of desire
+raillery
+    good-natured teasing
+vilipend
+    to belittle
+luculent
+    transparent
+brumous
+    misty or foggy
+languish
+    1. grow weak
+noisome
+    smelly
+syncopate
+    displace rhythm or elide interior letters
+gelid
+    cold, algid, boreal
+clinquant
+    glittering with silver or gold
+etiolate
+    blanch
+expiate
+    to atone for
+banausic
+    bland
+hebetude
+    lethargy
+adumbrate
+    report in outline
+oneiric
+    dreamlike
+obdurate
+    stubborn, obstinate
+baleful
+    malevolent
+truculent
+    combative
+accede
+    accept a request
+chagrin
+    disappointment
+stile
+    step to pass
+lambent
+    shining, effulgent
+abjection
+    downcast
+gainsay
+    contradict
+figment
+    flight of fancy
+janissary
+    supporter
+dissimulate
+    hide under a false appearance
+inveigh
+    complain, verbally attack
+inveigle
+    persuade by flattery, cajole, ingratiate
+beneficently
+    doing good
+ingenuous
+    innocent
+inchoate (in-coe-it)
+    incipient, rudimentary
+matutinal
+    re: early morning
+legerity
+    agility
+nonesuch
+    model of perfection
+calumny
+    false accusation
+pretextual
+    deliberately concocted, contrived
+rescission
+    repeal of a contract, law, or agreement
+percipience
+    perceptiveness
+invidious
+    likely to arouse anger if re: a position or situation. Else: unjust

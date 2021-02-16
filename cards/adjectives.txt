@@ -1,0 +1,109 @@
+Instructions:  Each card's front is a simple adjective (e.g., "curious") and each card back has words close to it in meaning (e.g., "inquisitive, quirky"). The goal is for you to be able to quickly and easily produce a couple of the latter when prompted with the card front.
+angry
+    restive, savage, belligerent, livid, indignant
+annoying
+    taxing, galling, nettlesome, hectoring, vexing
+anxious
+    overwrought, cowed, apprehensive
+bad
+    inimical, vile, odious, atrocious, foul, hideous, ghastly, horrid
+betray
+    forsake
+big
+    commodious, mammoth, colossal, prodigious
+boring
+    insipid, average, banal, moderate, prosaic, trite, level, vapid
+bossy
+    overbearing, authoritarian, imperious
+brave
+    gallant, valiant, intrepid, fearless, courageous
+calm
+    serene, sedate, unperturbed, placid
+clumsy
+    cumbersome, undignified, haphazard, awkward
+confused
+    addlepated, disarrayed, disoriented, befuddled, baffled, bewildered, conflated, addled, confounded
+cozy
+    quaint, picturesque
+crazy
+    neurotic, psychotic
+creative
+    artificial, fictitious, ingenious, artistic, invented
+curious
+    inquisitive, analytical, quirky
+dangerous
+    precarious, harrowing, inimical
+delicious
+    sapid, toothsome, delectable, savory, appetizing, flavorful
+different
+    variegated, distinct, atypical, heterogeneous, disparate
+dumb
+    obtuse
+eager
+    ardent, energetic, zealous, enthused, yearning, earnest
+false
+    mythological, fallacious
+fashionable
+    debonair, ritzy, urbane, artful, upscale, polished, dapper, chic
+fun
+    engrossing, whimsical, eventful, stimulating, absorbing, jovial
+funny
+    riotous, satirical, jocose
+friendly
+    amicable, amiable, convivial, gregarious, affable, gregarious, loquacious, engaging, approachable
+great
+    inimitable, nonesuch, sublime, matchless, phenomenal, praiseworthy
+healthy
+    salubrious, hale
+hidden
+    esoteric, covert, cryptic
+likely
+    plausible, liable, viable, promising
+loud
+    plangent, stentorian, cacophonous, noisy, raucous, booming, deafening, grating, garish, clamorous, obstreperous, vociferous
+messy
+    convoluted, tortuous, awry
+moral
+    pious, upright, righteous, angelic
+negative
+    contrary, fatalistic, dissenting, pejorative
+painful
+    afflicting
+plain
+    spartan, spare, austere
+rich
+    affluent, lavish, extravagent, exorbitant/expensive
+scary
+    imposing, petrifying, unsettling
+serious
+    significant, somber
+small
+    minuscule, negligible, paltry, minute, trivial, meager, infinitesimal, trivial, trifling, incidental, intimate, modest, piddling
+smart
+    sapient, erudite, percipient, astute, sharp, incisive, perceptive
+sneaky
+    furtive, conniving, scheming, devious
+soft
+    supple, malleable
+strange
+    eldritch, outlandish, baffling, wacky, odd, mystifying, quirky, aberrant, alien, enigmatic, cryptic.  (/Unfamiliar/ rejects eldritch, suggests distant, alien.)
+tall
+    statuesque, altitudinous, colossal
+thick
+    viscous, stout
+timeless
+    perennial, abiding, invariable, classic
+tired
+    depleted, spent, winded, sapped
+understandable
+    sound, persuasive, cogent
+unlikely
+    absurd, implausible, quixotic, illogical
+unreal
+    oneiric, imaginary, figmental, illusionary, spurious, insincere
+wide
+    prodigious, vast, comprehensive, expansive
+wordy
+    prolix, verbose, tedious, repetitive, meandering
+worn
+    threadbare, debilitated, frayed, exhausted, ragged, haggard
